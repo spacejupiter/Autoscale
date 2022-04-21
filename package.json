@@ -1,0 +1,25 @@
+{
+  "name": "autoscale",
+  "version": "1.0.0",
+  "description": "\"auto scaling test\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spacejupiter/Autoscale.git"
+  },
+  "keywords": [
+    "autoscale"
+  ],
+  "author": "chibuike anslem",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/spacejupiter/Autoscale/issues"
+  },
+  "homepage": "https://github.com/spacejupiter/Autoscale#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
